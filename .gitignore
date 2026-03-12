@@ -1,0 +1,8 @@
+data/
+*.log
+__pycache__/
+*.pyc
+.env
+config.json
+test-data/
+test-run.sh
